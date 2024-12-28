@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoListApp</string>
+    <string-array name="priority_levels">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>Iimportant</item>
+    </string-array>
+</resources>
